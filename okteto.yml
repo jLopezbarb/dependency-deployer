@@ -6,4 +6,4 @@ dependencies:
   dapulse:
     repository: https://github.com/jLopezbarb/dependency
     timeout: 2m
-    
+    wait: true    
